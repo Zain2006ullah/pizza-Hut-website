@@ -752,7 +752,7 @@ body {
 .footer {
     background-color: #1c1c1c; /* Darker footer background */
     padding: 60px 20px;
-    background-image: url(images/footer\ img.jfif);
+    background-image: url(https://cdn.pixabay.com/photo/2021/09/27/10/22/daisy-6660244_640.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -828,7 +828,7 @@ body {
     font-size: 14px;
 }
 
-.footer-bottom h4{
+.footer-bottom h2{
     color: #ccc;
     font-size: 14px;
 }
